@@ -1,0 +1,12 @@
+"main_text" = "Главное";
+"sound_text" = "Звук уведомления";
+"update_text" = "Уведомление об изменениях";
+"language_text" = "Язик";
+"info_text" = "О программе";
+"app_name" = "Про курсы валют";
+"uzb_lan" = "Узбекский язык";
+"ru_lan" = "Русский";
+"en_lan" = "Английский";
+"getValutaText" = "Покупка";
+"saleValutaText" = "Продается";
+"noData" = "Нет в наличии";
